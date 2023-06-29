@@ -1,6 +1,3 @@
-#Telco_Customer_Churn-ML_Programming
-
-
 In this project I shared, I tried to predict customer behavior using datasets on kaggle.
 
 I have installed the machine learning algorithm required to make predictions.
